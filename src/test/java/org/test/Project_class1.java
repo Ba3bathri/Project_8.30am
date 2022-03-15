@@ -6,6 +6,8 @@ public class Project_class1 {
 	System.out.println("output word");
 
 	System.out.println("output  input");
+	System.out.println("ot");
+	System.out.println("it");
 
 }
 }
